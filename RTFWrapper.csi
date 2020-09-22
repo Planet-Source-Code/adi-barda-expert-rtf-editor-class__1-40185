@@ -1,0 +1,15 @@
+[History]
+B0=RTFWrapper/CEditor
+B1=RTFWrapper/frmMain
+B2=RTFWrapper/frmMain/Form_Load
+B3=RTFWrapper/frmMain/cmdExit_Click
+B4=RTFWrapper/frmMain/cmdAdd_Click
+B5=RTFWrapper/CEditor/m_txtScript_KeyDown
+B6=RTFWrapper/CEditor/SetEditorObjects
+B7=RTFWrapper/CEditor/m_txtScript_Change
+B8=RTFWrapper/CEditor/m_flx_KeyDown
+B9=RTFWrapper/CEditor/Class_Initialize
+B10=RTFWrapper/CEditor/ColorWord
+B11=RTFWrapper/CEditor/PaintText
+B12=RTFWrapper/CEditor/AddInterface
+B13=RTFWrapper/CEditor/AddEditorWord
